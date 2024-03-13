@@ -8,7 +8,11 @@
 
 @font-face {
   font-family: Poppins;
-  src: url("");
+  src: url(css-Gaming-website2028/assets/fonts/Poppins-Bold.ttf);
+  src: url(css-Gaming-website2028/assets/fonts/);
+}
+*{
+font-family: Poppins;
 }
 /* 2. we use :root for default variables */
 :root {
@@ -21,6 +25,7 @@
   background-color: var(--black-700);
 }
 
+
 /* good luck */
 body{
   width: 1440px;
@@ -28,11 +33,11 @@ body{
   
 }
 .header{
-  width: 1438.77px;
+  
   height: 100px;
   margin-left: 0.23px;
   background-color: #3B2A9F;
- 
+ position: fixed;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -116,4 +121,98 @@ gap: 88px;
   line-height: 19.5px;
   
 }
-
+.main{
+  background-color: #3B2A9F;
+}
+.main1{
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 98px;
+  
+  
+}
+ .group8{
+  width:400px;
+  height: 510px;
+  margin-left: 147px;
+  padding-top: 203px;
+  
+  
+}
+#img1{
+  width: 806px;
+  height: 761px;
+  margin-left: 125px;
+  
+}
+.group8 #p1{
+  width: 273px;
+  height: 31px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 31.04px;
+  color: #FA8305;
+}
+.group8 h1{
+  width: 479.63px;
+  height: 234px;
+  margin-top: 17px;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 77.6px;
+  color: #FFFFFF;
+}
+.group8 #p2{
+  width: 527px;
+  height: 101px;
+  margin-top: 26px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: #FFFFFF;
+}
+.group8 #b2{
+  width: 195px;
+  height: 53px;
+  margin-top: 48px;
+  background-color: #FA8305;
+  border-radius: 25px;
+  border: 1px solid #FA8305;
+}
+#b2 a{
+width: 134px;
+height: 24px;
+font-weight: 500;
+color: #FFFFFF;
+font-size: 16px;
+line-height: 24px;
+padding-top: 14px;
+padding-left: 31px;
+padding-bottom: 15px;
+padding-right: 30px;
+text-decoration: none;
+}
+#img2{
+  width: 96px;
+  height: 30px;
+  position: absolute;
+  top: 409px;
+  left: 649px;
+}
+#cry{
+  width: 101px;
+  height: 99px;
+  position: absolute;
+  top: 202px;
+  left: 828px;
+}
+#img3{
+  width: 59px;
+  height: 64px;
+  position: absolute;
+  top: 218px;
+  left: 1168px;
+  rotate: -0 deg;
+}
