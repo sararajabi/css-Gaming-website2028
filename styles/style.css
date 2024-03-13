@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: Poppins;
+  src: url("");
+}
 /* 2. we use :root for default variables */
 :root {
   /* --"somekey-attr": "somevalue" i.e : */
@@ -18,3 +22,98 @@
 }
 
 /* good luck */
+body{
+  width: 1440px;
+   
+  
+}
+.header{
+  width: 1438.77px;
+  height: 100px;
+  margin-left: 0.23px;
+  background-color: #3B2A9F;
+ 
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 565.52px;
+
+}
+
+.header #logo{
+  margin-bottom: 30px;
+  margin-top: 25px;
+  margin-left: 59.18px;
+  width: 81.93px;
+  height: 45px;
+  font-weight: 800;
+  font-size: 29px;
+  line-height: 44.51px;
+  color: #FFFFFF;
+
+}
+.group3{
+ 
+  display: flex;
+  justify-content: space-between;
+  gap: 36.13px;
+  margin-right: 59.18px;
+  margin-top: 32px;
+  margin-bottom: 26.6px;
+  align-items: center;
+}
+.group3 .group2{
+display: flex;
+justify-content: space-between;
+gap: 88px;
+
+
+}
+
+.group2 a{
+  text-decoration: none;
+  color: #FFFFFF;
+  width: 50.6px;
+  height: 24.2px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  
+  
+}
+.group2 #a1{
+  width: 50.6px;
+  height: 24.2px;
+}
+.group2 #a2{
+  width: 70.63px;
+  height: 24.2px;
+}
+.group2 #a3{
+  width: 74.85px;
+  height: 24.2px;
+}
+.group2 #a4{
+  width: 45.33px;
+  height: 24.2px;
+}
+ .group3 #b1{
+  width: 131.66px;
+  height: 41.34px;
+  background-color: #FA8305;
+  border: 1px solid #FA8305;
+  border-radius: 6px;
+  color: #FFFFFF;
+  
+
+
+}
+#b1{
+  width: 81px;
+  height: 20px;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 19.5px;
+  
+}
+
