@@ -129,12 +129,13 @@ gap: 88px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  gap: 98px;
+  
+  
   
   
 }
  .group8{
-  width:400px;
+  width:max-content;
   height: 510px;
   margin-left: 147px;
   padding-top: 203px;
@@ -142,9 +143,9 @@ gap: 88px;
   
 }
 #img1{
-  width: 806px;
+  width: 735px;
   height: 761px;
-  margin-left: 125px;
+  margin-left: 110px;
   
 }
 .group8 #p1{
@@ -216,3 +217,104 @@ text-decoration: none;
   left: 1168px;
   rotate: -0 deg;
 }
+.main2 p{
+width: 404px;
+height: 58px;
+font-weight: 700;
+font-size: 31px;
+line-height: 58.13px;
+margin-top: 180px;
+margin-left: 148px;
+color: #FFFFFF;
+}
+.main2 #b3{
+  width: 139px;
+  height: 57px;
+  border-radius: 10px;
+  background-color: #5141AA;
+  border: 1px solid #5141AA;
+  margin-top: 180px;
+  margin-right: 146px;
+ 
+}
+.main2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 603px;
+  align-items: center;
+}
+#b3{
+  color: #FFFFFF;
+}
+.li1{
+  width: 251px;
+  height: 277px;
+  border-radius: 20px;
+  
+ }
+  
+ .ul1 .li1:hover{
+  opacity: 0.5;
+ }
+ 
+ .ul1 p{
+  width: 136px;
+  height: 41px;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 41.25px;
+  color: #FFFFFF;
+  
+ }
+ .ul1 #fire{
+  width: 25px;
+  height: 25px;
+ }
+ .ul1 div{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 9px;
+  align-items: center;
+  margin-top: 25px;
+  margin-left: 52px;
+  
+ }
+ .ul1{
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-start;
+  gap: 47px;
+  margin-top: 57px;
+  margin-left: 148px;
+  list-style:none;
+ }
+ .txt1{
+  width: 826px;
+  height: 132px;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 65.63px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-top: 129px;
+  margin-left: 308px;
+  margin-right: 306px;
+ }
+ #txt2{
+  width: 209px;
+  height: 40px;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 56.25px;
+  color: #FFFFFF;
+ }
+ #txt3{
+  width: 545px;
+  height: 101px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #FFFFFF;
+ }
