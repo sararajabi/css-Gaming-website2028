@@ -37,7 +37,7 @@ body{
   height: 100px;
   margin-left: 0.23px;
   background-color: #3B2A9F;
- position: fixed;
+ 
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -268,7 +268,7 @@ color: #FFFFFF;
   
  }
  .ul1 #fire{
-  width: 25px;
+  width: 18.5px;
   height: 25px;
  }
  .ul1 div{
@@ -317,4 +317,53 @@ color: #FFFFFF;
   font-size: 16px;
   line-height: 30px;
   color: #FFFFFF;
+  margin-top: 32px;
+ }
+ .main3{
+  margin-left: 148px;
+  margin-top: 67px;
+ }
+ 
+ .ellipse{
+  position: absolute;
+  width: 196px;
+  height: 154px;
+  left: 973px;
+  
+  
+ }
+ .img4{
+  width: 1146px;
+  height: 462px;
+  position: relative;
+  top: 46px;
+  left: 148px;
+  right: 146px;
+  border-radius: 5px;
+  
+  
+ }
+ #txt4{
+  width: 305px;
+  height: 56px;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 56.25px;
+  color: #FFFFFF;
+  margin-left: 574px;
+  
+ }
+ #txt5{
+  width: 497px;
+  height: 57px;
+  font-weight:400;
+  font-size: 14px;
+  line-height: 26.25px;
+  color: #FFFFFF;
+  margin-top: 15px;
+  text-align: center;
+  margin-left: 472px;
+ }
+ .main4{
+  margin-top: 148px;
  }
