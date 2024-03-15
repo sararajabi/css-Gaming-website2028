@@ -8,11 +8,12 @@
 
 @font-face {
   font-family: Poppins;
-  src: url(css-Gaming-website2028/assets/fonts/Poppins-Bold.ttf);
-  src: url(css-Gaming-website2028/assets/fonts/);
+
+  
 }
+
 *{
-font-family: Poppins;
+  font-family: Poppins;
 }
 /* 2. we use :root for default variables */
 :root {
@@ -37,11 +38,12 @@ body{
   height: 100px;
   margin-left: 0.23px;
   background-color: #3B2A9F;
- 
+   position: fixed;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   gap: 565.52px;
+  z-index: 9;
 
 }
 
@@ -55,6 +57,7 @@ body{
   font-size: 29px;
   line-height: 44.51px;
   color: #FFFFFF;
+  
 
 }
 .group3{
@@ -90,6 +93,27 @@ gap: 88px;
   width: 50.6px;
   height: 24.2px;
 }
+.group2 #a1 #bar #rec1{
+  width: 30.97px;
+  height: 4px;
+  background-color: #FA8305;
+  border-radius: 20px;
+}
+.group2 #a1 #bar #rec2{
+  width: 5px;
+  height: 4px;
+  border-radius: 20px;
+  background-color: #FA8305;
+}
+.group2 #a1 #bar {
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+  margin-top: 6.8px;
+  position: relative;
+  right: 13.99px;
+}
+
 .group2 #a2{
   width: 70.63px;
   height: 24.2px;
@@ -120,6 +144,12 @@ gap: 88px;
   font-size: 13px;
   line-height: 19.5px;
   
+}
+.header .bar #rec1{
+  width: 30.97px;
+  height: 4px;
+  border-radius: 20px;
+  background-color: #FA8305;
 }
 .main{
   background-color: #3B2A9F;
@@ -345,6 +375,7 @@ color: #FFFFFF;
   margin-top: 20px;
   
   
+  
  }
  #txt4{
   width: 305px;
@@ -524,3 +555,140 @@ color: #FFFFFF;
   margin-left: 16px;
   
  }
+ .footer{
+  width: 1440px;
+  height: 376px;
+  background-color: #0e0808;
+  margin-top: 163px;
+ }
+ .ftr .ftr1 #p1{
+  width: 68px;
+  height: 37px;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 36.84px;
+  color: #FFFFFF;
+
+}
+.ftr .ftr1 #p2{
+  width: 372px;
+  height: 58px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+  margin-top: 15px;
+
+}
+.ftr .ftr1 #p3{
+  width: 196px;
+  height: 23px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+  margin-top: 25px;
+
+}
+
+
+.ftr .ftr2 #p1{
+  width: 76px;
+  height: 26px;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 25.5px;
+  color: #FFFFFF;
+
+}
+.ftr .ftr2 ul{
+  width: 372px;
+  height: 117px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 29.81px;
+  color: #FFFFFF;
+  list-style-type: none;
+  margin-top: 15px ;
+}
+.ftr .ftr3 #p1{
+  width: 94px;
+  height: 26px;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 25.5px;
+  color: #FFFFFF;
+
+}
+.ftr .ftr3 #p2{
+  width: 282px;
+  height: 76px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+  margin-top: 20px;
+
+}
+.ftr .ftr3 #p3{
+  width: 141px;
+  height: 28px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+  margin-top: 11px;
+
+}
+.ftr{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+.ftr4 {
+  display: flex;
+  flex-direction: row;
+  
+  width: 50x;
+  height: 50px;
+  margin-top: 196px;
+  position: absolute;
+  left: 1136px;
+}
+.ftr1{
+  margin-top: 79px;
+  position: absolute;
+  left: 101px;
+}
+.ftr2{
+  margin-top: 79px;
+  position: absolute;
+  left: 551px;
+}
+.ftr3{
+  margin-top: 79px;
+  position: absolute;
+  left: 771px;
+}
+
+.footer #copy{
+  color: #FFFFFF;
+  margin-top: 322px;
+  margin-left: 588px;
+  width: 300px;
+  height: 25px;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 24.78px;
+}
+.footer #copy b{
+  
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 24.78px;
+}
+.footer hr{
+  position:relative;
+  bottom: 50px;
+}
