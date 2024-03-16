@@ -230,7 +230,6 @@
     font-size: 16px;
     line-height: 32.4px;
     color: #FFFFFF;
-
   }
   .txt3 #p2{
     width: 531px;
@@ -249,4 +248,67 @@
     line-height: 32.4px;
     color: #FFFFFF;
     margin-top: 14px;
+  }
+  .team{
+    width: 139px;
+    height: 45px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 45.12px;
+    color: #FFFFFF;
+    margin-left: 110px;
+    margin-top: 148px;
+  }
+  .boxss .box1{
+    width: 295px;
+    height: 253px;
+    border-radius: 20px;
+    background-color: #1C140F;
+  }
+  .boxss{
+    display: flex;
+    flex-direction: row;
+    gap: 28px;
+    margin-left: 110px;
+    margin-top: 35px;
+  }
+  .box1 #img1{
+   width: 123px;
+   height: 123px;
+   margin-left: 89px;
+   margin-top: 45px;
+   margin-top: 45px;
+  }
+  .box1 #img2{
+    width: 117px;
+    height: 117px;
+    margin-left: 93px;
+    margin-top: 41px;
+  }
+  .box1 #img3{
+    width: 109px;
+    height: 109px;
+    margin-left: 86px;
+    margin-top: 45px;
+  }
+  .box1 #img4{
+    width: 106px;
+    height: 106px;
+    margin-left: 95px;
+    margin-top: 47px;
+  }
+  .box1 #p1{
+    margin-left: 96px;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 38.48px;
+    color: #FFFFFF;
+  }
+  .box1 #p2{
+    
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 32.4px;
+    color: #FFFFFF;
+    margin-left: 129px;
   }
