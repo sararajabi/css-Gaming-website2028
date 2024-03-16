@@ -24,20 +24,7 @@
     font-family: "Poppins", sans-serif;
     
   }
-  .header{
-    
-    height: 100px;
-    margin-left: 0.23px;
-    background-color: #3B2A9F;
-     position: fixed;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    gap: 565.52px;
-    z-index: 9;
-    
-  }
-  
+
   .header #logo{
     margin-bottom: 30px;
     margin-top: 25px;

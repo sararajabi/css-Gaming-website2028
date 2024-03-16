@@ -1,4 +1,15 @@
-.group2 #a2 #bar #rec1{
+ .header{
+    height: 100px;
+    margin-left: 0.23px;
+    background-color: #3B2A9F;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 565.52px;
+    z-index: 9; 
+    position: fixed;
+  }
+  .group2 #a2 #bar #rec1{
     width: 30.97px;
     height: 4px;
     background-color: #FA8305;
@@ -16,5 +27,93 @@
     gap: 3px;
     margin-top: 6.8px;
     position: relative;
-    right: 13.99px;
+    right: 3.6px;
+  }
+  .main{
+    background-color: #3B2A9F;
+  }
+  .group88 #txt1 #span1{
+   width: 99px;
+   height: 25px;
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 25.02px;
+   color: #FFFFFF;
+  }
+  .group88 #txt1 #span2{
+    width: 99px;
+    height: 25px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 25.02px;
+    color: #FA8305;
+  }
+  .group88 #lorem1{
+    width: 425px;
+    height: 162px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 54.15px;
+    color: #FFFFFF;
+    margin-top: 38px;
+  }
+  .group88{
+    margin-top: 214px;
+  }
+  .group88 #lorem2{
+    width: 414px;
+    height: 95px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 31.28px;
+    color: #FFFFFF;
+    margin-top: 25px;  
+  }
+  .group88 #b2{
+    width: 176px;
+    height: 47.84px;
+    background-color:#FA8305;
+    border: 1px solid #FA8305;
+    margin-top: 57.16px;  
+    border-radius: 40px;
+  }
+  .group88 #b2 a{
+    width: 100px;
+    height: 21px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 19px;
+    margin-right: 57px;
+    text-decoration: none;
+    color: #FFFFFF;
+    margin-top: 10.84px;
+    margin-bottom:16px ;
+    font-family: "Poppins", sans-serif;
+  }
+  .group88 #b2 a img{
+    width: 12px;
+    height:10.29px;
+    margin-left: 18px;
+  }
+  .main1 #img1{
+    width: 739px;
+    height: 656px;
+    margin-top: 121px;
+  }
+  .main1{
+    display: flex;
+    flex-direction: row;
+    gap: 166px;
+    margin-left: 110px;
+  }
+  .txt2{
+    width: 237px;
+    height: 45px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 45.12px;
+    color: #FFFFFF;
+    margin-top: 144px;
+    margin-left: 110px;
   }

@@ -1,4 +1,16 @@
-
+.header{
+    
+  height: 100px;
+  margin-left: 0.23px;
+  background-color: #3B2A9F;
+   position: fixed;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 565.52px;
+  z-index: 9;
+  
+}
 .group2 #a1 #bar #rec1{
   width: 30.97px;
   height: 4px;
