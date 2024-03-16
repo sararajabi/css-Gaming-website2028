@@ -46,7 +46,17 @@
     font-weight: 400;
     font-size: 12px;
     line-height: 25.02px;
+    color: #FFFFFF;
+    margin-left: 9px;
+   }
+  .group88 #txt1 #span3{
+    width: 99px;
+    height: 25px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 25.02px;
     color: #FA8305;
+    
   }
   .group88 #lorem1{
     width: 425px;
@@ -312,3 +322,13 @@
     color: #FFFFFF;
     margin-left: 129px;
   }
+  .item4{
+    margin-left: 135px;
+    margin-top: 157px;
+   }
+ .footer{
+    width: 1440px;
+    height: 376px;
+    background-color: #0e0808;
+    margin-top: 153px;
+   }

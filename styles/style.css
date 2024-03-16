@@ -317,4 +317,8 @@ font-family: "Rubik", sans-serif;
   line-height: 37.5px;
   font-family: "Rubik", sans-serif;
  }
+ .ul1 li div:hover #fire{
+  transform: scale(1.5);
+ }
+ 
  
