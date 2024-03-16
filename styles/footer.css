@@ -38,7 +38,6 @@
     font-size: 30px;
     line-height: 45px ;
     color: #FFFFFF;
-    
    }
    .bx1{
     margin-left: 56px;
@@ -52,7 +51,6 @@
     line-height:25.5px ;
     color: #FFFFFF;
     margin-top: 10px;
-    
    }
    .bx2 .email{
     margin-left: 20.55px;
@@ -64,7 +62,6 @@
     height: 20px;
     padding-top: 14px;
    } 
-   
    .bx2{
     width: 385.68px;
     height: 48px;
@@ -76,7 +73,6 @@
     gap: 98.8px;
     margin-top: 71px;
     margin-right: 50px;
-    
    }
    .bx2 #b5{
     width: 105px;
@@ -95,10 +91,8 @@
     line-height: 19.5px;
     color: #FFFFFF;
     margin-left: 16px;
-    
    }
-   
-.footer{
+ .footer{
     width: 1440px;
     height: 376px;
     background-color: #0e0808;
@@ -111,7 +105,6 @@
     font-size: 24px;
     line-height: 36.84px;
     color: #FFFFFF;
-  
   }
   .ftr .ftr1 #p2{
     width: 372px;
@@ -121,7 +114,6 @@
     line-height: 24px;
     color: #FFFFFF;
     margin-top: 15px;
-  
   }
   .ftr .ftr1 #p3{
     width: 196px;
@@ -131,10 +123,7 @@
     line-height: 24px;
     color: #FFFFFF;
     margin-top: 25px;
-  
   }
-  
-  
   .ftr .ftr2 #p1{
     width: 76px;
     height: 26px;
@@ -143,7 +132,6 @@
     line-height: 25.5px;
     color: #FFFFFF;
     white-space: nowrap;
-  
   }
   .ftr .ftr2 ul{
     width: 372px;
@@ -162,7 +150,6 @@
     font-size: 17px;
     line-height: 25.5px;
     color: #FFFFFF;
-  
   }
   .ftr .ftr3 #p2{
     width: 282px;
@@ -172,7 +159,6 @@
     line-height: 24px;
     color: #FFFFFF;
     margin-top: 20px;
-  
   }
   .ftr .ftr3 #p3{
     width: 141px;
@@ -182,18 +168,15 @@
     line-height: 24px;
     color: #FFFFFF;
     margin-top: 11px;
-  
   }
   .ftr{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    
   }
   .ftr4 {
     display: flex;
     flex-direction: row;
-    
     width: 50x;
     height: 50px;
     margin-top: 196px;
@@ -215,7 +198,6 @@
     position: absolute;
     left: 771px;
   }
-  
   .footer #copy{
     color: #FFFFFF;
     margin-top: 322px;
@@ -228,7 +210,6 @@
     white-space: nowrap;
   }
   .footer #copy b{
-    
     font-weight: 700;
     font-size: 13px;
     line-height: 24.78px;

@@ -21,8 +21,7 @@
   /* good luck */
   body{
     width: 1440px;
-    font-family: "Poppins", sans-serif;
-    
+    font-family: "Poppins", sans-serif; 
   }
 
   .header #logo{
@@ -35,11 +34,8 @@
     font-size: 29px;
     line-height: 44.51px;
     color: #FFFFFF;
-    
-    
   }
   .group3{
-   
     display: flex;
     justify-content: space-between;
     gap: 36.13px;
@@ -52,10 +48,7 @@
   display: flex;
   justify-content: space-between;
   gap: 88px;
-  
-  
   }
-  
   .group2 a{
     text-decoration: none;
     color: #FFFFFF;
@@ -64,15 +57,11 @@
     font-weight: 400;
     font-size: 15px;
     line-height: 24px;
-   
-    
   }
-  
   .group2 #a1{
     width: 50.6px;
     height: 24.2px;
   }
-  
   .group2 #a1 #bar {
     display: flex;
     flex-direction: row;
@@ -81,7 +70,6 @@
     position: relative;
     right: 13.99px;
   }
-  
   .group2 #a2{
     width: 70.63px;
     height: 24.2px;
@@ -101,16 +89,12 @@
     border: 1px solid #FA8305;
     border-radius: 6px;
     color: #FFFFFF;
-    
-  
-  
   }
   #b1{
     width: 81px;
     height: 20px;
     font-weight: 400;
     font-size: 13px;
-    line-height: 19.5px;
-    
+    line-height: 19.5px; 
   }
   

@@ -1,5 +1,4 @@
-.header{
-    
+.header{  
   height: 100px;
   margin-left: 0.23px;
   background-color: #3B2A9F;
@@ -8,8 +7,7 @@
   flex-direction: row;
   justify-content: space-between;
   gap: 565.52px;
-  z-index: 9;
-  
+  z-index: 9; 
 }
 .group2 #a1 #bar #rec1{
   width: 30.97px;
@@ -31,21 +29,17 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  
 }
  .group8{
   width:max-content;
   height: 510px;
   margin-left: 147px;
-  padding-top: 203px;
-  
-  
+  padding-top: 203px; 
 }
 #img1{
   width: 735px;
   height: 761px;
   margin-left: 110px;
-  
 }
 .group8 #p1{
   width: 273px;
@@ -54,7 +48,6 @@
   font-size: 20px;
   line-height: 31.04px;
   color: #FA8305;
- 
 }
 .group8 h1{
   width: 479.63px;
@@ -64,8 +57,6 @@
   font-size: 50px;
   line-height: 77.6px;
   color: #FFFFFF;
-
-  
 }
 .group8 #p2{
   width: 527px;
@@ -97,7 +88,6 @@ padding-left: 31px;
 padding-bottom: 15px;
 padding-right: 30px;
 text-decoration: none;
-
 }
 #img2{
   width: 96px;
@@ -160,8 +150,7 @@ font-family: "Rubik", sans-serif;
 .li1{
   width: 251px;
   height: 277px;
-  border-radius: 20px;
-  
+  border-radius: 20px; 
  }
   
  .ul1 .li1:hover{
@@ -177,7 +166,6 @@ font-family: "Rubik", sans-serif;
   color: #FFFFFF;
   padding-bottom: 40px;
   font-family: "Rubik", sans-serif;
-  
  }
  .ul1 #fire{
   width: 18.5px;
@@ -191,7 +179,6 @@ font-family: "Rubik", sans-serif;
   align-items: center;
   margin-top: 25px;
   margin-left: 52px;
-  
  }
  .ul1{
   display: flex;
@@ -242,10 +229,6 @@ font-family: "Rubik", sans-serif;
   width: 196px;
   height: 154px;
   left: 973px;
-  
-  
-  
-  
  }
  .img4{
   width: 1146px;
@@ -256,9 +239,6 @@ font-family: "Rubik", sans-serif;
   right: 146px;
   border-radius: 5px;
   margin-top: 20px;
-  
-  
-  
  }
  #txt4{
   width: 305px;
@@ -269,7 +249,6 @@ font-family: "Rubik", sans-serif;
   color: #FFFFFF;
   margin-left: 574px;
   white-space: nowrap;
-  
  }
  #txt5{
   width: 497px;
@@ -288,8 +267,7 @@ font-family: "Rubik", sans-serif;
  #c1{
     width: 371px;
     height: 223px;
-    border-radius: 20px;
-    
+    border-radius: 20px;  
  }
  #c2{
   width: 372px;
@@ -301,7 +279,6 @@ font-family: "Rubik", sans-serif;
   width: 371px;
   height: 223px;
   border-radius: 20px;
-  
  }
  #c4{
   width: 246px;
