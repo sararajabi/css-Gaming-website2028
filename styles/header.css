@@ -1,0 +1,134 @@
+/* 1. don't modify this style */
+* {
+    padding: 0;
+    margin: 0;
+  
+    box-sizing: border-box;
+  }
+  
+  /* 2. we use :root for default variables */
+  :root {
+    /* --"somekey-attr": "somevalue" i.e : */
+    --black-700: #000;
+  }
+  /* 3. and we use it like this */
+  .elementOne {
+    /* var(--"somekey-attr") */
+    background-color: var(--black-700);
+  }
+  
+  
+  /* good luck */
+  body{
+    width: 1440px;
+    font-family: "Poppins", sans-serif;
+    
+  }
+  .header{
+    
+    height: 100px;
+    margin-left: 0.23px;
+    background-color: #3B2A9F;
+     position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 565.52px;
+    z-index: 9;
+    
+  }
+  
+  .header #logo{
+    margin-bottom: 30px;
+    margin-top: 25px;
+    margin-left: 59.18px;
+    width: 81.93px;
+    height: 45px;
+    font-weight: 800;
+    font-size: 29px;
+    line-height: 44.51px;
+    color: #FFFFFF;
+    
+    
+  }
+  .group3{
+   
+    display: flex;
+    justify-content: space-between;
+    gap: 36.13px;
+    margin-right: 59.18px;
+    margin-top: 32px;
+    margin-bottom: 26.6px;
+    align-items: center;
+  }
+  .group3 .group2{
+  display: flex;
+  justify-content: space-between;
+  gap: 88px;
+  
+  
+  }
+  
+  .group2 a{
+    text-decoration: none;
+    color: #FFFFFF;
+    width: 50.6px;
+    height: 24.2px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+   
+    
+  }
+  
+  .group2 #a1{
+    width: 50.6px;
+    height: 24.2px;
+  }
+  
+  .group2 #a1 #bar {
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+    margin-top: 6.8px;
+    position: relative;
+    right: 13.99px;
+  }
+  
+  .group2 #a2{
+    width: 70.63px;
+    height: 24.2px;
+  }
+  .group2 #a3{
+    width: 74.85px;
+    height: 24.2px;
+  }
+  .group2 #a4{
+    width: 45.33px;
+    height: 24.2px;
+  }
+   .group3 #b1{
+    width: 131.66px;
+    height: 41.34px;
+    background-color: #FA8305;
+    border: 1px solid #FA8305;
+    border-radius: 6px;
+    color: #FFFFFF;
+    
+  
+  
+  }
+  #b1{
+    width: 81px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 19.5px;
+    
+  }
+  .header .bar #rec1{
+    width: 30.97px;
+    height: 4px;
+    border-radius: 20px;
+    background-color: #FA8305;
+  }
