@@ -1,0 +1,20 @@
+.group2 #a2 #bar #rec1{
+    width: 30.97px;
+    height: 4px;
+    background-color: #FA8305;
+    border-radius: 20px;
+  }
+  .group2 #a2 #bar #rec2{
+    width: 5px;
+    height: 4px;
+    border-radius: 20px;
+    background-color: #FA8305;
+  }
+  .group2 #a2 #bar {
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+    margin-top: 6.8px;
+    position: relative;
+    right: 13.99px;
+  }
