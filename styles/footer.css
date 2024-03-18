@@ -2,7 +2,7 @@
     margin-left: 136px;
     margin-top: 105px;
    }
-   .item4 #p1{
+   .item4 .p1{
     width: 209px;
     height: 40px;
     font-weight: 600;
@@ -10,7 +10,7 @@
     line-height: 56.25px;
     color: #FFFFFF;
    }
-   .item4 #p2{
+   .item4 .p2{
     width: 545px;
     height: 57px;
     font-weight: 400;
@@ -31,7 +31,7 @@
     flex-direction: row;
     justify-content: space-between;
    }
-   .bx1 #p1{
+   .bx1 .p1{
     width: 303px;
     height: 45px;
     font-weight: 500;
@@ -43,7 +43,7 @@
     margin-left: 56px;
     margin-top: 40px;
    }
-   .bx1 #p2{
+   .bx1 .p2{
     width: 636px;
     height: 52px;
     font-weight: 400;
@@ -98,7 +98,7 @@
     background-color: #0e0808;
     margin-top: 163px;
    }
-   .ftr .ftr1 #p1{
+   .ftr .ftr1 .p1{
     width: 68px;
     height: 37px;
     font-weight: 800;
@@ -106,7 +106,7 @@
     line-height: 36.84px;
     color: #FFFFFF;
   }
-  .ftr .ftr1 #p2{
+  .ftr .ftr1 .p2{
     width: 372px;
     height: 58px;
     font-weight: 400;
@@ -115,7 +115,7 @@
     color: #FFFFFF;
     margin-top: 15px;
   }
-  .ftr .ftr1 #p3{
+  .ftr .ftr1 .p3{
     width: 196px;
     height: 23px;
     font-weight: 400;
@@ -124,7 +124,7 @@
     color: #FFFFFF;
     margin-top: 25px;
   }
-  .ftr .ftr2 #p1{
+  .ftr .ftr2 .p1{
     width: 76px;
     height: 26px;
     font-weight: 500;
@@ -143,7 +143,7 @@
     list-style-type: none;
     margin-top: 15px ;
   }
-  .ftr .ftr3 #p1{
+  .ftr .ftr3 .p1{
     width: 94px;
     height: 26px;
     font-weight: 500;
@@ -151,7 +151,7 @@
     line-height: 25.5px;
     color: #FFFFFF;
   }
-  .ftr .ftr3 #p2{
+  .ftr .ftr3 .p2{
     width: 282px;
     height: 76px;
     font-weight: 400;
@@ -160,7 +160,7 @@
     color: #FFFFFF;
     margin-top: 20px;
   }
-  .ftr .ftr3 #p3{
+  .ftr .ftr3 .p3{
     width: 141px;
     height: 28px;
     font-weight: 400;
